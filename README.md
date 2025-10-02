@@ -1,5 +1,19 @@
 # Railway Reservation System
 
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Features List](#features-list)
+- [Prerequisites](#prerequisites)
+- [Installation/Setup Steps](#installationsetup-steps)
+- [Usage](#usage)
+- [Database Schema](#database-schema)
+- [Code Structure](#code-structure)
+- [Assumptions and Constraints](#assumptions-and-constraints)
+- [Evaluation Criteria Met](#evaluation-criteria-met)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+
 ## Project Description
 
 The Railway Reservation System is a console-based application developed in Python that enables administrators to manage train ticket bookings efficiently. It utilizes PostgreSQL for data persistence and provides a menu-driven interface for performing reservation operations. The system supports booking tickets with automatic status assignment (confirmed or waiting) based on seat availability, canceling tickets, searching by Passenger Number (PNR), displaying all passengers, and viewing available seats. It is designed with a modular architecture to ensure maintainability and scalability.
